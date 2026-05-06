@@ -1,0 +1,6 @@
+{
+  "name": "ZenSudoku: Pro Solver & Game",
+  "description": "A high-performance Sudoku engine featuring advanced backtracking solvers, puzzle generation, and intelligent hint assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
